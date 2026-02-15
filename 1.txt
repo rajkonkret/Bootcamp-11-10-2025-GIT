@@ -16,8 +16,12 @@ Date:   Sun Feb 15 08:31:55 2026 +0100
  git branch - sprawdzenie na jakiej gałęzi jestesmy
   git switch main    - nowsze podejscie do zmiany brancha
   git merge feature-header - mergowanie (scalanie) zmian
-   git branch -r - branche na zdalnym repozytorium
+   git branch -v - branche na zdalnym repozytorium
 
  git remote add origin https://github.com/rajkonkret/Bootcamp-11-10-2025-GIT.git - zdalne repo
   git push -u origin main  - wysłanie zmian na github
   git commit -a -m "zmiany" - staging i commit w jednym kroku
+
+  (.venv) radoslawjaniak@mac Bootcamp-11-10-2025-GIT % git remote -v
+origin  https://github.com/rajkonkret/Bootcamp-11-10-2025-GIT.git (fetch)
+origin  https://github.com/rajkonkret/Bootcamp-11-10-2025-GIT.git (push)
