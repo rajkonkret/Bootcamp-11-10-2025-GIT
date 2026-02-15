@@ -10,3 +10,7 @@ Date:   Sun Feb 15 08:31:55 2026 +0100
     dodano 1.txt
 (.venv) radoslawjaniak@mac Bootcamp-11-10-2025-GIT % git log --oneline
 133f873 (HEAD -> main) dodano 1.txt
+ git add .  - dodanie wszsytkich plików do staging
+ git restore --staged .idea - wycofanie ze stagingu
+ git checkout -b feature-header - nowa galąź
+ git branch - sprawdzenie na jakiej gałęzi jestesmy
