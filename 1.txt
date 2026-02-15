@@ -1,2 +1,12 @@
 git init - inicjalizacja repozytorium
 git status - sprawdzenie statusu dla plików
+git add 1.txt  - dodanie do stagingu
+git commit -m "dodano 1.txt" - commit - zapamiętanie zmian
+git log
+commit 133f8737f20514a8eeb39e8d9d8440fcdabcef51 (HEAD -> main)
+Author: radoslawjaniak <rajkokret660@gmail.com>
+Date:   Sun Feb 15 08:31:55 2026 +0100
+
+    dodano 1.txt
+(.venv) radoslawjaniak@mac Bootcamp-11-10-2025-GIT % git log --oneline
+133f873 (HEAD -> main) dodano 1.txt
