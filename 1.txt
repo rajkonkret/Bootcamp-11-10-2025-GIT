@@ -29,3 +29,4 @@ origin  https://github.com/rajkonkret/Bootcamp-11-10-2025-GIT.git (push)
  git stash - wrzucenie kodu do schowka
  git stash pop - pobranie kodu ze schowka
  git stash list - lista elementów w schowku
+ git log --oneline --graph --all
