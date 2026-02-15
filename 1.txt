@@ -14,3 +14,5 @@ Date:   Sun Feb 15 08:31:55 2026 +0100
  git restore --staged .idea - wycofanie ze stagingu
  git checkout -b feature-header - nowa galąź
  git branch - sprawdzenie na jakiej gałęzi jestesmy
+  git switch main    - nowsze podejscie do zmiany brancha
+  git merge feature-header - mergowanie (scalanie) zmian
