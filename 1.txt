@@ -20,3 +20,4 @@ Date:   Sun Feb 15 08:31:55 2026 +0100
 
  git remote add origin https://github.com/rajkonkret/Bootcamp-11-10-2025-GIT.git - zdalne repo
   git push -u origin main  - wysłanie zmian na github
+  git commit -a -m "zmiany" - staging i commit w jednym kroku
